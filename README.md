@@ -1,3 +1,29 @@
+# steps taken to create this app and then use Redux
+
+npx create-react-app react-redux
+
+npm i @reduxjs/toolkit 
+
+npm i react-redux 
+
+npm i --save-dev @redux-devtools/core
+
+
+# Alternatively we could build a React Redux App with Plain JavaScript:
+npx create-react-app my-app --template redux
+
+# Alternatively we could build a React Redux App with TypeScript:
+npx create-react-app my-app --template redux-typescript
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
